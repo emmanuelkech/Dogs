@@ -1,6 +1,6 @@
 # dog_images
 
-Fetches Random Dog Images.
+Fetches Random Dog Images once the "Fetch" button is clicked.
 
 ## Built with:
 - IDE: Android Studio
